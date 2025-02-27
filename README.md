@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **harshsalvi250@gmail.com**
 
-- ⚡ Fun fact **I have multiple hobbies.**
+- ⚡ Fun fact **I have multiple hobbies that may or may not correlate with my Carrer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
