@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsh Suhas Salvi</h1>
 <h3 align="center">A passionate computer science programming student from India</h3>
 
-- 🌱 I’m currently learning **IOT/Arduino-IDE**
+- 🌱 I’m currently learning **MEAN Stack and REACT JS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HarshSalvi07/Programs.git](https://github.com/HarshSalvi07/Programs.git)
 
