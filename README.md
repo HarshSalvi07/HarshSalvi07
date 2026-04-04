@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harsh Suhas Salvi</h1>
+<h1 align="center">Hi 👋, I'm Harsh Salvi</h1>
 <h3 align="center">A passionate computer science programming student from India</h3>
 
 - 🌱 I’m currently learning **TypeScript**
